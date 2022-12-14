@@ -4,7 +4,7 @@
 
 In this [tutorial](https://www.pubnub.com/blog/how-to-add-a-realtime-badge-to-icons-in-react-native/), you will be using React Native libraries to clone Facebook Messenger and add badges to the icons. PubNub will be used to power the real-time updates to the badge via the [PubNub React SDK](https://www.pubnub.com/docs/sdks/react). The final result will be a simple application that looks as follows.
 
-![PubNub Realtime Presence Badge Gif](https://media.giphy.com/media/MFmLnJKpRo9YXqbd1I/giphy.gif)
+![PubNub Realtime Presence Badge Gif](media/final-result-badge-notifications.gif)
 
 You can follow the step-by-step tutorial to build this application on PubNub's website.
 
